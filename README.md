@@ -10,7 +10,7 @@
   **Problem Solved**: Analyzes fulfillment data by State, City, Year, Account Manager  
   **Key Insight**: NSW had the highest total sum, Sydney made up 64% of 2013 orders  
   **Screenshot**: ![Fulfillment Dashboard](/images/Fulfillment_dashboard.png)  
-  **Download**: [Saqibanalyst_Excel_Pivot.xlsx](/Excel/Saqibanalyst_Excel_Pivot.xlsx) 
+  **Download**: [Saqibanalyst_Excel_Pivot.xlsx](/Excel/Saqibanalyst_Excel_Pivot.xlsx)
 - **Power BI**: Interactive dashboards - see screenshots in /images folder  
 
 ### Contact
