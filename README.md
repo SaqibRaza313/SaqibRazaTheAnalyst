@@ -5,11 +5,12 @@
 
 ### Projects
 - **SQL Analysis**: Queries for sales, inventory, and customer data  
-- **Excel**: NetTRON Network Quote Dashboard
-**Tools**: Excel, SUMIFS, LOOKUP, Pivot Tables, Slicers  
-**Problem Solved**: Auto-calculates installation costs by location using item codes + discounts  
-**Screenshot**: ![Dashboard](/images/nettron_dashboard.png)  
-**Download**: [NetTRON_Quote_Calculator.xlsx](/Excel/NetTRON_Quote_Calculator.xlsx)  
+- **Excel: Fulfillment Pivot Dashboard**  
+  **Tools**: Pivot Tables, Slicers, Charts  
+  **Problem Solved**: Analyzes fulfillment data by State, City, Year, Account Manager  
+  **Key Insight**: NSW had the highest total sum, Sydney made up 64% of 2013 orders  
+  **Screenshot**: ![Fulfillment Dashboard](/images/Fulfillment_dashboard.png)  
+  **Download**: [Saqibanalyst_Excel_Pivot.xlsx](/Excel/Saqibanalyst_Excel_Pivot.xlsx) 
 - **Power BI**: Interactive dashboards - see screenshots in /images folder  
 
 ### Contact
